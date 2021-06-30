@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class HomePage {
 	
     WebDriver driver;
-	
+	System.out.println("HELLO");
     
 	@FindBy(xpath="//a[text()='New Customer']")
 	WebElement newCustomer;
