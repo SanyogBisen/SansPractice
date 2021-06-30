@@ -2,153 +2,153 @@
 <testng-results ignored="4" total="28" passed="16" failed="0" skipped="8">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-08T10:30:35 IST" name="Suite" finished-at="2021-06-08T10:30:48 IST" duration-ms="12876">
+  <suite started-at="2021-06-30T20:27:46 IST" name="Suite" finished-at="2021-06-30T20:28:19 IST" duration-ms="32795">
     <groups>
     </groups>
-    <test started-at="2021-06-08T10:30:35 IST" name="Test" finished-at="2021-06-08T10:30:42 IST" duration-ms="6757">
+    <test started-at="2021-06-30T20:27:46 IST" name="chrome" finished-at="2021-06-30T20:28:11 IST" duration-ms="25541">
       <class name="com.pom.classes.TestClass3">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="beforeClass" finished-at="2021-06-08T10:30:36 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="beforeClass" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="beforeMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="test3" finished-at="2021-06-08T10:30:36 IST" duration-ms="2" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="test3" finished-at="2021-06-30T20:27:46 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="afterMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="beforeMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="test3" finished-at="2021-06-08T10:30:36 IST" duration-ms="2" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="test3" finished-at="2021-06-30T20:27:46 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="afterMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="test3" finished-at="2021-06-08T10:30:36 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="test3" finished-at="2021-06-30T20:27:46 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="beforeMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="afterMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="beforeMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="test1" finished-at="2021-06-08T10:30:36 IST" depends-on-methods="com.pom.classes.TestClass3.test3" duration-ms="3" status="PASS">
+        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="test1" finished-at="2021-06-30T20:27:46 IST" depends-on-methods="com.pom.classes.TestClass3.test3" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="afterClass" finished-at="2021-06-08T10:30:36 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass3@482bce4f]" started-at="2021-06-30T20:27:46 IST" name="afterClass" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@3315d2d7]" started-at="2021-06-08T10:30:36 IST" name="afterMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
       </class> <!-- com.pom.classes.TestClass3 -->
       <class name="com.pom.classes.TestClass2">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="beforeClass" finished-at="2021-06-08T10:30:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="beforeClass" finished-at="2021-06-30T20:27:46 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="beforeMethod" finished-at="2021-06-08T10:30:35 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="test3" finished-at="2021-06-08T10:30:35 IST" duration-ms="11" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="test3" finished-at="2021-06-30T20:27:46 IST" duration-ms="39" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="afterMethod" finished-at="2021-06-08T10:30:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="beforeMethod" finished-at="2021-06-08T10:30:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="test3" finished-at="2021-06-08T10:30:35 IST" duration-ms="5" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="test3" finished-at="2021-06-30T20:27:46 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="afterMethod" finished-at="2021-06-08T10:30:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="beforeMethod" finished-at="2021-06-08T10:30:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="test3" finished-at="2021-06-08T10:30:35 IST" duration-ms="3" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="test3" finished-at="2021-06-30T20:27:46 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="afterMethod" finished-at="2021-06-08T10:30:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="beforeMethod" finished-at="2021-06-08T10:30:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="beforeMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:35 IST" name="test1" finished-at="2021-06-08T10:30:36 IST" depends-on-methods="com.pom.classes.TestClass2.test3" duration-ms="23" status="PASS">
+        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="test1" finished-at="2021-06-30T20:27:46 IST" depends-on-methods="com.pom.classes.TestClass2.test3" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:36 IST" name="afterMethod" finished-at="2021-06-08T10:30:36 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="afterMethod" finished-at="2021-06-30T20:27:46 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass2@d6e7bab]" started-at="2021-06-08T10:30:36 IST" name="afterClass" finished-at="2021-06-08T10:30:36 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass2@366647c2]" started-at="2021-06-30T20:27:46 IST" name="afterClass" finished-at="2021-06-30T20:27:46 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.pom.classes.TestClass2 -->
       <class name="com.pom.classes.TestClass1">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:36 IST" name="beforeClass" finished-at="2021-06-08T10:30:42 IST" duration-ms="6376" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:27:46 IST" name="beforeClass" finished-at="2021-06-30T20:28:11 IST" duration-ms="24910" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="beforeMethod" finished-at="2021-06-08T10:30:42 IST" duration-ms="140" status="FAIL">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="beforeMethod" finished-at="2021-06-30T20:28:11 IST" duration-ms="133" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -208,28 +208,28 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyDeleteAccountLink()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="verifyDeleteAccountLink" finished-at="2021-06-08T10:30:42 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyDeleteAccountLink()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="verifyDeleteAccountLink" finished-at="2021-06-30T20:28:11 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -289,36 +289,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyDeleteAccountLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442601" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091731" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442604" status="SKIP">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091733" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyDeleteCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="verifyDeleteCustomerLink" finished-at="2021-06-08T10:30:42 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyDeleteCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="verifyDeleteCustomerLink" finished-at="2021-06-30T20:28:11 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -378,36 +378,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyDeleteCustomerLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442625" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091755" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442628" status="SKIP">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091781" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyNewAccountLink()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="verifyNewAccountLink" finished-at="2021-06-08T10:30:42 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyNewAccountLink()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="verifyNewAccountLink" finished-at="2021-06-30T20:28:11 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -467,36 +467,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNewAccountLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442638" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091815" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442643" status="SKIP">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091830" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyNewCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="verifyNewCustomerLink" finished-at="2021-06-08T10:30:42 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyNewCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="verifyNewCustomerLink" finished-at="2021-06-30T20:28:11 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:60237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: de013c704fdb989cb16136f93dc823ae
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:50823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 100f8767942e963e9e94bdb341655fc3
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -556,168 +556,168 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNewCustomerLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442653" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091858" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass1@5fa07e12]" started-at="2021-06-08T10:30:42 IST" name="afterClass" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128442656" status="SKIP">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass1@6a6afff2]" started-at="2021-06-30T20:28:11 IST" name="afterClass" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065091859" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.pom.classes.TestClass1 -->
-    </test> <!-- Test -->
-    <test started-at="2021-06-08T10:30:42 IST" name="Test1" finished-at="2021-06-08T10:30:48 IST" duration-ms="5955">
+    </test> <!-- chrome -->
+    <test started-at="2021-06-30T20:28:12 IST" name="firefox" finished-at="2021-06-30T20:28:19 IST" duration-ms="7082">
       <class name="com.pom.classes.TestClass3">
-        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:35 IST" name="beforeSuite" finished-at="2021-06-08T10:30:35 IST" duration-ms="19" status="PASS">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:27:46 IST" name="beforeSuite" finished-at="2021-06-30T20:27:46 IST" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="beforeClass" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="beforeClass" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="beforeMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="test3" finished-at="2021-06-08T10:30:48 IST" duration-ms="2" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="test3" finished-at="2021-06-30T20:28:19 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="afterMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="beforeMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="test3" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="test3" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="test3" finished-at="2021-06-08T10:30:48 IST" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="beforeMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="afterMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="test1" finished-at="2021-06-08T10:30:48 IST" depends-on-methods="com.pom.classes.TestClass3.test3" duration-ms="15" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="test3" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="afterMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="beforeMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="test1" finished-at="2021-06-30T20:28:19 IST" depends-on-methods="com.pom.classes.TestClass3.test3" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="afterMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="afterClass" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="afterClass" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.pom.classes.TestClass3@29e495ff]" started-at="2021-06-08T10:30:48 IST" name="afterSuite" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.pom.classes.TestClass3@44821a96]" started-at="2021-06-30T20:28:19 IST" name="afterSuite" finished-at="2021-06-30T20:28:19 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
       </class> <!-- com.pom.classes.TestClass3 -->
       <class name="com.pom.classes.TestClass2">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="beforeClass" finished-at="2021-06-08T10:30:48 IST" duration-ms="3" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:18 IST" name="beforeClass" finished-at="2021-06-30T20:28:18 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="test3" finished-at="2021-06-08T10:30:48 IST" duration-ms="40" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:18 IST" name="beforeMethod" finished-at="2021-06-30T20:28:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:18 IST" name="test3" finished-at="2021-06-30T20:28:18 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:18 IST" name="afterMethod" finished-at="2021-06-30T20:28:18 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:18 IST" name="beforeMethod" finished-at="2021-06-30T20:28:18 IST" duration-ms="43" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="test3" finished-at="2021-06-08T10:30:48 IST" duration-ms="2" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:18 IST" name="test3" finished-at="2021-06-30T20:28:19 IST" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="afterMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="beforeMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="test3" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method signature="test3()[pri:1, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="test3" finished-at="2021-06-30T20:28:19 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="afterMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="test1" finished-at="2021-06-08T10:30:48 IST" depends-on-methods="com.pom.classes.TestClass2.test3" duration-ms="51" status="PASS">
+        <test-method signature="test1()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="test1" finished-at="2021-06-30T20:28:19 IST" depends-on-methods="com.pom.classes.TestClass2.test3" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="beforeMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="afterMethod" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass2@be35cd9]" started-at="2021-06-08T10:30:48 IST" name="afterClass" finished-at="2021-06-08T10:30:48 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass2@1ba9117e]" started-at="2021-06-30T20:28:19 IST" name="afterClass" finished-at="2021-06-30T20:28:19 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.pom.classes.TestClass2 -->
       <class name="com.pom.classes.TestClass1">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:42 IST" name="beforeClass" finished-at="2021-06-08T10:30:48 IST" duration-ms="5675" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:12 IST" name="beforeClass" finished-at="2021-06-30T20:28:18 IST" duration-ms="6676" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="2021-06-08T10:30:48 IST" duration-ms="48" status="FAIL">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="beforeMethod" finished-at="2021-06-30T20:28:18 IST" duration-ms="50" status="FAIL">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -777,28 +777,28 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyDeleteAccountLink()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="verifyDeleteAccountLink" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyDeleteAccountLink()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="verifyDeleteAccountLink" finished-at="2021-06-30T20:28:18 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -858,36 +858,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyDeleteAccountLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448564" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098826" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448572" status="SKIP">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098830" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyDeleteCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="verifyDeleteCustomerLink" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyDeleteCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="verifyDeleteCustomerLink" finished-at="2021-06-30T20:28:18 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -947,36 +947,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyDeleteCustomerLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448585" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098838" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448588" status="SKIP">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098848" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyNewAccountLink()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="verifyNewAccountLink" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyNewAccountLink()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="verifyNewAccountLink" finished-at="2021-06-30T20:28:18 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -1036,36 +1036,36 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNewAccountLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448601" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098858" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448608" status="SKIP">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="beforeMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098871" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyNewCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="verifyNewCustomerLink" finished-at="2021-06-08T10:30:48 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verifyNewCustomerLink()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="verifyNewCustomerLink" finished-at="2021-06-30T20:28:18 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.NoSuchElementException">
             <message>
               <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='uid']"}
-  (Session info: chrome=91.0.4472.77)
+  (Session info: chrome=91.0.4472.114)
 For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-43VTGMP', ip: '192.168.116.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+System info: host: 'DESKTOP-43VTGMP', ip: '192.168.43.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.77, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:52417}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 3e72fc1edb59144d93b0d37e2fff65ee
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\csp\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:57612}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff8d8fc309af30dbb18b19c361d09e3c
 *** Element info: {Using=xpath, value=//input[@name='uid']}
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)
@@ -1125,15 +1125,15 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyNewCustomerLink -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448614" status="SKIP">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="afterMethod" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098887" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass1@41e1e210]" started-at="2021-06-08T10:30:48 IST" name="afterClass" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1623128448617" status="SKIP">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.pom.classes.TestClass1@a3d8174]" started-at="2021-06-30T20:28:18 IST" name="afterClass" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1625065098894" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- com.pom.classes.TestClass1 -->
-    </test> <!-- Test1 -->
+    </test> <!-- firefox -->
   </suite> <!-- Suite -->
 </testng-results>
